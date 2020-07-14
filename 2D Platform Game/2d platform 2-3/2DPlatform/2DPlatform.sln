@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DPlatform", "2DPlatform.csproj", "{659AD17E-11F1-9E95-A985-E5C1B12FAD6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DPlatform.Plugins", "2DPlatform.Plugins.csproj", "{67005ACA-15E1-57D9-B855-656CAE2AF6FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DPlatform.Editor", "2DPlatform.Editor.csproj", "{676CE835-9008-CB2A-1370-0E84611C63E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DPlatform.Editor.Plugins", "2DPlatform.Editor.Plugins.csproj", "{C1934EA9-0B63-5E04-9094-67D8C19F583D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{659AD17E-11F1-9E95-A985-E5C1B12FAD6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{659AD17E-11F1-9E95-A985-E5C1B12FAD6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{659AD17E-11F1-9E95-A985-E5C1B12FAD6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{659AD17E-11F1-9E95-A985-E5C1B12FAD6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67005ACA-15E1-57D9-B855-656CAE2AF6FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67005ACA-15E1-57D9-B855-656CAE2AF6FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67005ACA-15E1-57D9-B855-656CAE2AF6FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67005ACA-15E1-57D9-B855-656CAE2AF6FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{676CE835-9008-CB2A-1370-0E84611C63E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{676CE835-9008-CB2A-1370-0E84611C63E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{676CE835-9008-CB2A-1370-0E84611C63E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{676CE835-9008-CB2A-1370-0E84611C63E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1934EA9-0B63-5E04-9094-67D8C19F583D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1934EA9-0B63-5E04-9094-67D8C19F583D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1934EA9-0B63-5E04-9094-67D8C19F583D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1934EA9-0B63-5E04-9094-67D8C19F583D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

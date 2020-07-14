@@ -1,0 +1,128 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 510 (ID=0x1902)
+    Vendor:   Intel
+    VRAM:     2144 MB
+    Driver:   26.20.100.7263
+Begin MonoManager ReloadAssembly
+Platform assembly: H:\git do wyslania\unity1\2d platform 2 dzien\2DPlatform\2d_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading H:\git do wyslania\unity1\2d platform 2 dzien\2DPlatform\2d_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: H:\git do wyslania\unity1\2d platform 2 dzien\2DPlatform\2d_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading H:\git do wyslania\unity1\2d platform 2 dzien\2DPlatform\2d_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: H:\git do wyslania\unity1\2d platform 2 dzien\2DPlatform\2d_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading H:\git do wyslania\unity1\2d platform 2 dzien\2DPlatform\2d_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: H:\git do wyslania\unity1\2d platform 2 dzien\2DPlatform\2d_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading H:\git do wyslania\unity1\2d platform 2 dzien\2DPlatform\2d_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: H:\git do wyslania\unity1\2d platform 2 dzien\2DPlatform\2d_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading H:\git do wyslania\unity1\2d platform 2 dzien\2DPlatform\2d_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: H:\git do wyslania\unity1\2d platform 2 dzien\2DPlatform\2d_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading H:\git do wyslania\unity1\2d platform 2 dzien\2DPlatform\2d_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: H:\git do wyslania\unity1\2d platform 2 dzien\2DPlatform\2d_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading H:\git do wyslania\unity1\2d platform 2 dzien\2DPlatform\2d_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: H:\git do wyslania\unity1\2d platform 2 dzien\2DPlatform\2d_Data\Managed\System.dll (this message is harmless)
+Platform assembly: H:\git do wyslania\unity1\2d platform 2 dzien\2DPlatform\2d_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.099 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.799000 ms
+Test
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+We hit Platform03 and did 10 damage.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Test
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+We hit Platform03 and did 10 damage.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Test
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+We hit Platform03 and did 10 damage.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Test
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+We hit Platform03 and did 10 damage.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Test
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+We hit Platform03 and did 10 damage.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Test
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+We hit Platform03 and did 10 damage.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Test
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+We hit Platform03 and did 10 damage.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Test
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+We hit Platform03 and did 10 damage.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Test
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+We hit Platform03 and did 10 damage.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Test
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+We hit Platform01 and did 10 damage.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Test
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+We hit Platform01 and did 10 damage.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Test
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+We hit Platform01 and did 10 damage.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1320 -> priority: 1 
