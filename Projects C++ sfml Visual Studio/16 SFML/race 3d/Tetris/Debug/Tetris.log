@@ -1,0 +1,27 @@
+﻿  main.cpp
+c:\users\mateusz\documents\visual studio 2017\projects\16 sfml\race 3d\tetris\main.cpp(8): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\mateusz\documents\visual studio 2017\projects\16 sfml\race 3d\tetris\main.cpp(14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mateusz\documents\visual studio 2017\projects\16 sfml\race 3d\tetris\main.cpp(15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mateusz\documents\visual studio 2017\projects\16 sfml\race 3d\tetris\main.cpp(16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mateusz\documents\visual studio 2017\projects\16 sfml\race 3d\tetris\main.cpp(17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mateusz\documents\visual studio 2017\projects\16 sfml\race 3d\tetris\main.cpp(58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\mateusz\documents\visual studio 2017\projects\16 sfml\race 3d\tetris\main.cpp(96): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\mateusz\documents\visual studio 2017\projects\16 sfml\race 3d\tetris\main.cpp(99): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\mateusz\documents\visual studio 2017\projects\16 sfml\race 3d\tetris\main.cpp(103): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\mateusz\documents\visual studio 2017\projects\16 sfml\race 3d\tetris\main.cpp(104): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\mateusz\documents\visual studio 2017\projects\16 sfml\race 3d\tetris\main.cpp(105): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\mateusz\documents\visual studio 2017\projects\16 sfml\race 3d\tetris\main.cpp(107): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mateusz\documents\visual studio 2017\projects\16 sfml\race 3d\tetris\main.cpp(126): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\mateusz\documents\visual studio 2017\projects\16 sfml\race 3d\tetris\main.cpp(127): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+c:\users\mateusz\documents\visual studio 2017\projects\16 sfml\race 3d\tetris\main.cpp(128): error C2065: 'speed': undeclared identifier
+c:\users\mateusz\documents\visual studio 2017\projects\16 sfml\race 3d\tetris\main.cpp(129): error C2065: 'speed': undeclared identifier
+c:\users\mateusz\documents\visual studio 2017\projects\16 sfml\race 3d\tetris\main.cpp(130): error C2065: 'speed': undeclared identifier
+c:\users\mateusz\documents\visual studio 2017\projects\16 sfml\race 3d\tetris\main.cpp(131): error C2065: 'H': undeclared identifier
+c:\users\mateusz\documents\visual studio 2017\projects\16 sfml\race 3d\tetris\main.cpp(132): error C2065: 'H': undeclared identifier
+c:\users\mateusz\documents\visual studio 2017\projects\16 sfml\race 3d\tetris\main.cpp(139): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\mateusz\documents\visual studio 2017\projects\16 sfml\race 3d\tetris\main.cpp(147): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\mateusz\documents\visual studio 2017\projects\16 sfml\race 3d\tetris\main.cpp(152): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\mateusz\documents\visual studio 2017\projects\16 sfml\race 3d\tetris\main.cpp(160): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\mateusz\documents\visual studio 2017\projects\16 sfml\race 3d\tetris\main.cpp(161): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\mateusz\documents\visual studio 2017\projects\16 sfml\race 3d\tetris\main.cpp(161): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\mateusz\documents\visual studio 2017\projects\16 sfml\race 3d\tetris\main.cpp(162): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data

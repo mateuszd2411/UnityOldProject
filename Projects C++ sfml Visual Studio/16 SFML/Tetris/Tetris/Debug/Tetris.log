@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\mateusz\documents\visual studio 2017\projects\16 sfml\tetris\tetris\main.cpp(35): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\mateusz\documents\visual studio 2017\projects\16 sfml\tetris\tetris\main.cpp(47): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\mateusz\documents\visual studio 2017\projects\16 sfml\tetris\tetris\main.cpp(69): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\mateusz\documents\visual studio 2017\projects\16 sfml\tetris\tetris\main.cpp(121): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\mateusz\documents\visual studio 2017\projects\16 sfml\tetris\tetris\main.cpp(132): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mateusz\documents\visual studio 2017\projects\16 sfml\tetris\tetris\main.cpp(140): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Tetris.vcxproj -> C:\Users\Mateusz\Documents\Visual Studio 2017\Projects\16 SFML\Tetris\Debug\Tetris.exe
+  Tetris.vcxproj -> C:\Users\Mateusz\Documents\Visual Studio 2017\Projects\16 SFML\Tetris\Debug\Tetris.pdb (Partial PDB)

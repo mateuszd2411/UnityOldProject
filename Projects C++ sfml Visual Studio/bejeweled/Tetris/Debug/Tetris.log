@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\mateusz\documents\visual studio 2017\projects\bejeweled\tetris\main.cpp(18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\mateusz\documents\visual studio 2017\projects\bejeweled\tetris\main.cpp(56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mateusz\documents\visual studio 2017\projects\bejeweled\tetris\main.cpp(57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Tetris.vcxproj -> C:\Users\Mateusz\Documents\Visual Studio 2017\Projects\bejeweled\Debug\Tetris.exe
+  Tetris.vcxproj -> C:\Users\Mateusz\Documents\Visual Studio 2017\Projects\bejeweled\Debug\Tetris.pdb (Partial PDB)

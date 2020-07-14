@@ -1,0 +1,6 @@
+﻿  ArcanoidTutorial.cpp
+ArcanoidTutorial.cpp(5): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Ball.cpp
+c:\users\mateusz\documents\visual studio 2017\projects\arcanoidtutorial\arcanoidtutorial\Ball.h(2): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Paddle.cpp
+c:\users\mateusz\documents\visual studio 2017\projects\arcanoidtutorial\arcanoidtutorial\Paddle.h(2): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory

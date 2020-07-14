@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\mateusz\documents\visual studio 2017\projects\16 sfml\arcanoid\tetris\main.cpp(12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\mateusz\documents\visual studio 2017\projects\16 sfml\arcanoid\tetris\main.cpp(34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Tetris.vcxproj -> C:\Users\Mateusz\Documents\Visual Studio 2017\Projects\16 SFML\arcanoid\Debug\Tetris.exe
+  Tetris.vcxproj -> C:\Users\Mateusz\Documents\Visual Studio 2017\Projects\16 SFML\arcanoid\Debug\Tetris.pdb (Partial PDB)
