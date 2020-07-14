@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "megafps.Plugins", "megafps.Plugins.csproj", "{68229CCB-210A-DCF1-7B85-46B95B3D53DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "megafps", "megafps.csproj", "{73308B70-8B76-6763-A572-FA6A146A6635}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "megafps.Editor", "megafps.Editor.csproj", "{F41C9189-F8D7-0E5B-3AF0-D9D45A5AB2B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68229CCB-210A-DCF1-7B85-46B95B3D53DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68229CCB-210A-DCF1-7B85-46B95B3D53DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68229CCB-210A-DCF1-7B85-46B95B3D53DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68229CCB-210A-DCF1-7B85-46B95B3D53DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73308B70-8B76-6763-A572-FA6A146A6635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73308B70-8B76-6763-A572-FA6A146A6635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73308B70-8B76-6763-A572-FA6A146A6635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73308B70-8B76-6763-A572-FA6A146A6635}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F41C9189-F8D7-0E5B-3AF0-D9D45A5AB2B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F41C9189-F8D7-0E5B-3AF0-D9D45A5AB2B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F41C9189-F8D7-0E5B-3AF0-D9D45A5AB2B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F41C9189-F8D7-0E5B-3AF0-D9D45A5AB2B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

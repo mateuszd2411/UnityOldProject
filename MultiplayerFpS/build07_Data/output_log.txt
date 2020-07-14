@@ -1,0 +1,242 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 610 (ID=0x5902)
+    Vendor:   Intel
+    VRAM:     2144 MB
+    Driver:   22.20.16.4729
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\unity\MultiplayerFpS\build07_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\unity\MultiplayerFpS\build07_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\unity\MultiplayerFpS\build07_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\unity\MultiplayerFpS\build07_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\unity\MultiplayerFpS\build07_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\unity\MultiplayerFpS\build07_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\unity\MultiplayerFpS\build07_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\unity\MultiplayerFpS\build07_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\unity\MultiplayerFpS\build07_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\unity\MultiplayerFpS\build07_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\unity\MultiplayerFpS\build07_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\unity\MultiplayerFpS\build07_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\unity\MultiplayerFpS\build07_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\unity\MultiplayerFpS\build07_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\unity\MultiplayerFpS\build07_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\unity\MultiplayerFpS\build07_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\unity\MultiplayerFpS\build07_Data\Managed\DatabaseControl.dll (this message is harmless)
+Loading C:\unity\MultiplayerFpS\build07_Data\Managed\DatabaseControl.dll into Unity Child Domain
+Platform assembly: C:\unity\MultiplayerFpS\build07_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\unity\MultiplayerFpS\build07_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.319 seconds
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.501224 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: c44 -> priority: 1 
+  Thread -> id: 49c -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.258412 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 837.
+Total: 0.936913 ms (FindLiveObjects: 0.068091 ms CreateObjectMapping: 0.035652 ms MarkObjects: 0.818849 ms  DeleteObjects: 0.013735 ms)
+
+MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Creating Room: ddd with room for 6 places.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MatchMakingClient Create :https://mm.unet.unity3d.com/json/reply/CreateMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The prefab 'Player' has multiple NetworkIdentity components. There can only be one NetworkIdentity on a prefab, and it must be on the root object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.298741 ms
+The prefab 'Player' has multiple NetworkIdentity components. There can only be one NetworkIdentity on a prefab, and it must be on the root object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+test1234 has joined!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1229.
+Total: 4.416587 ms (FindLiveObjects: 0.187616 ms CreateObjectMapping: 0.120401 ms MarkObjects: 3.619362 ms  DeleteObjects: 0.487452 ms)
+
+Remaning bullets: 19
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 18
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 17
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 16
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 15
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 14
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 13
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 12
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 11
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Reloading
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 19
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 18
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 17
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 16
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 15
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 14
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 13
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 12
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 11
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Reloading
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

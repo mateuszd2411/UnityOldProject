@@ -1,0 +1,165 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 510 (ID=0x1902)
+    Vendor:   Intel
+    VRAM:     2144 MB
+    Driver:   26.20.100.7263
+Begin MonoManager ReloadAssembly
+Platform assembly: H:\git do wyslania\unity2\MultiplayerFpS\build09_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading H:\git do wyslania\unity2\MultiplayerFpS\build09_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: H:\git do wyslania\unity2\MultiplayerFpS\build09_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading H:\git do wyslania\unity2\MultiplayerFpS\build09_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: H:\git do wyslania\unity2\MultiplayerFpS\build09_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading H:\git do wyslania\unity2\MultiplayerFpS\build09_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: H:\git do wyslania\unity2\MultiplayerFpS\build09_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading H:\git do wyslania\unity2\MultiplayerFpS\build09_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: H:\git do wyslania\unity2\MultiplayerFpS\build09_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading H:\git do wyslania\unity2\MultiplayerFpS\build09_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: H:\git do wyslania\unity2\MultiplayerFpS\build09_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading H:\git do wyslania\unity2\MultiplayerFpS\build09_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: H:\git do wyslania\unity2\MultiplayerFpS\build09_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading H:\git do wyslania\unity2\MultiplayerFpS\build09_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: H:\git do wyslania\unity2\MultiplayerFpS\build09_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading H:\git do wyslania\unity2\MultiplayerFpS\build09_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: H:\git do wyslania\unity2\MultiplayerFpS\build09_Data\Managed\DatabaseControl.dll (this message is harmless)
+Loading H:\git do wyslania\unity2\MultiplayerFpS\build09_Data\Managed\DatabaseControl.dll into Unity Child Domain
+Platform assembly: H:\git do wyslania\unity2\MultiplayerFpS\build09_Data\Managed\System.dll (this message is harmless)
+Platform assembly: H:\git do wyslania\unity2\MultiplayerFpS\build09_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.094 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.536400 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2d90 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.760400 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 886.
+Total: 0.709300 ms (FindLiveObjects: 0.049300 ms CreateObjectMapping: 0.028800 ms MarkObjects: 0.616900 ms  DeleteObjects: 0.013500 ms)
+
+MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Creating Room: qwe with room for 6 places.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MatchMakingClient Create :https://mm.unet.unity3d.com/json/reply/CreateMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The prefab 'Player' has multiple NetworkIdentity components. There can only be one NetworkIdentity on a prefab, and it must be on the root object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.370800 ms
+The prefab 'Player' has multiple NetworkIdentity components. There can only be one NetworkIdentity on a prefab, and it must be on the root object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+xxxxxxx has joined!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1321.
+Total: 1.138400 ms (FindLiveObjects: 0.069400 ms CreateObjectMapping: 0.036900 ms MarkObjects: 0.863700 ms  DeleteObjects: 0.167600 ms)
+
+Remaning bullets: 19
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 18
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 17
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 16
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 15
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 14
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 13
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 12
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 11
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Remaning bullets: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Reloading
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.MonoBehaviour:StartCoroutine_Auto_Internal (System.Collections.IEnumerator)
+  at UnityEngine.MonoBehaviour.StartCoroutine (IEnumerator routine) [0x00000] in <filename unknown>:0 
+  at UserAccountManager.GetData (.OnDataReceivedcallBack onDataReceived) [0x00000] in <filename unknown>:0 
+  at PlayerScore.SyncNow () [0x00000] in <filename unknown>:0 
+  at PlayerScore.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+

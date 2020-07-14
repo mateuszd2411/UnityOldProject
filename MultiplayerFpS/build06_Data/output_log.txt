@@ -1,0 +1,246 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 610 (ID=0x5902)
+    Vendor:   Intel
+    VRAM:     2144 MB
+    Driver:   22.20.16.4729
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\unity\MultiplayerFpS\build06_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\unity\MultiplayerFpS\build06_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\unity\MultiplayerFpS\build06_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\unity\MultiplayerFpS\build06_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\unity\MultiplayerFpS\build06_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\unity\MultiplayerFpS\build06_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\unity\MultiplayerFpS\build06_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\unity\MultiplayerFpS\build06_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\unity\MultiplayerFpS\build06_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\unity\MultiplayerFpS\build06_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\unity\MultiplayerFpS\build06_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\unity\MultiplayerFpS\build06_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\unity\MultiplayerFpS\build06_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\unity\MultiplayerFpS\build06_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\unity\MultiplayerFpS\build06_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\unity\MultiplayerFpS\build06_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\unity\MultiplayerFpS\build06_Data\Managed\DatabaseControl.dll (this message is harmless)
+Loading C:\unity\MultiplayerFpS\build06_Data\Managed\DatabaseControl.dll into Unity Child Domain
+Platform assembly: C:\unity\MultiplayerFpS\build06_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\unity\MultiplayerFpS\build06_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.265 seconds
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.219506 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1464 -> priority: 1 
+  Thread -> id: 490 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.519961 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 772.
+Total: 1.019031 ms (FindLiveObjects: 0.071013 ms CreateObjectMapping: 0.065753 ms MarkObjects: 0.864730 ms  DeleteObjects: 0.016073 ms)
+
+MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MatchMakingClient Join :https://mm.unet.unity3d.com/json/reply/JoinMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The prefab 'Player' has multiple NetworkIdentity components. There can only be one NetworkIdentity on a prefab, and it must be on the root object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.067245 ms
+The prefab 'Player' has multiple NetworkIdentity components. There can only be one NetworkIdentity on a prefab, and it must be on the root object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 1018.
+Total: 3.775413 ms (FindLiveObjects: 0.186155 ms CreateObjectMapping: 0.059324 ms MarkObjects: 3.041313 ms  DeleteObjects: 0.486867 ms)
+
+Player1 now has 95 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player1 now has 90 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player1 now has 85 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player1 now has 80 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player1 now has 75 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player1 now has 70 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player1 now has 65 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player1 now has 60 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player1 now has 80 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player1 now has 75 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player1 now has 70 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player1 now has 65 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player1 now has 60 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player1 now has 55 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player1 now has 55 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player1 now has 50 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player1 now has 45 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player1 now has 25 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player1 now has 20 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player1 now has 15 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player1 now has 10 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player1 now has 5 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player1 now has 0 health.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player1 is DEAD!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Syncing: [KILLS]1/[DEATHS]0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to send command for object without authority.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player1 respawn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Succes sending data
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Log: connection {1} has been disconnected by timeout; address {::ffff:52.58.14.64:9999} time {194752}, last rec time {192337} rtt {123} timeout {2000}
+MatchMakingClient DropConnection :https://mm.unet.unity3d.com/json/reply/DropConnectionRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+MatchMakingClient DropConnection :https://mm.unet.unity3d.com/json/reply/DropConnectionRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ClientDisconnected due to error: Timeout
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UnloadTime: 1.985460 ms
+MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 79 unused Assets to reduce memory usage. Loaded Objects now: 786.
+Total: 2.870062 ms (FindLiveObjects: 0.049388 ms CreateObjectMapping: 0.022210 ms MarkObjects: 1.012894 ms  DeleteObjects: 1.784693 ms)
+
+MatchMakingClient Join :https://mm.unet.unity3d.com/json/reply/JoinMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The prefab 'Player' has multiple NetworkIdentity components. There can only be one NetworkIdentity on a prefab, and it must be on the root object.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Log: cannot connect after {10} attempt address {::ffff:52.58.14.64:9999}
+MatchMakingClient DropConnection :https://mm.unet.unity3d.com/json/reply/DropConnectionRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MatchMakingClient DropConnection :https://mm.unet.unity3d.com/json/reply/DropConnectionRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ClientDisconnected due to error: Timeout
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.797515 ms
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 781.
+Total: 0.665132 ms (FindLiveObjects: 0.067214 ms CreateObjectMapping: 0.020164 ms MarkObjects: 0.529826 ms  DeleteObjects: 0.047342 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.935159 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 780.
+Total: 1.072218 ms (FindLiveObjects: 0.085041 ms CreateObjectMapping: 0.061662 ms MarkObjects: 0.910026 ms  DeleteObjects: 0.014319 ms)
+
+MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
