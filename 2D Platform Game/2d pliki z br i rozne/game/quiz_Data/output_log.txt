@@ -1,0 +1,160 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 510 (ID=0x1902)
+    Vendor:   Intel
+    VRAM:     2144 MB
+    Driver:   26.20.100.7263
+Begin MonoManager ReloadAssembly
+Platform assembly: H:\git do wyslania\unity1\2d pliki z br i rozne\game\quiz_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading H:\git do wyslania\unity1\2d pliki z br i rozne\game\quiz_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: H:\git do wyslania\unity1\2d pliki z br i rozne\game\quiz_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading H:\git do wyslania\unity1\2d pliki z br i rozne\game\quiz_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: H:\git do wyslania\unity1\2d pliki z br i rozne\game\quiz_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading H:\git do wyslania\unity1\2d pliki z br i rozne\game\quiz_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: H:\git do wyslania\unity1\2d pliki z br i rozne\game\quiz_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading H:\git do wyslania\unity1\2d pliki z br i rozne\game\quiz_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: H:\git do wyslania\unity1\2d pliki z br i rozne\game\quiz_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading H:\git do wyslania\unity1\2d pliki z br i rozne\game\quiz_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: H:\git do wyslania\unity1\2d pliki z br i rozne\game\quiz_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading H:\git do wyslania\unity1\2d pliki z br i rozne\game\quiz_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: H:\git do wyslania\unity1\2d pliki z br i rozne\game\quiz_Data\Managed\System.dll (this message is harmless)
+Platform assembly: H:\git do wyslania\unity1\2d pliki z br i rozne\game\quiz_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.107 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.521400 ms
+I am super cool is True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CORRECT!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 14.206400 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 504.
+Total: 0.577400 ms (FindLiveObjects: 0.046800 ms CreateObjectMapping: 0.032200 ms MarkObjects: 0.486600 ms  DeleteObjects: 0.010700 ms)
+
+2+2=4 is True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CORRECT!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.695800 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 504.
+Total: 1.255200 ms (FindLiveObjects: 0.141100 ms CreateObjectMapping: 0.021100 ms MarkObjects: 1.047300 ms  DeleteObjects: 0.041100 ms)
+
+Violets are red is False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CORRECT!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.601500 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 504.
+Total: 0.844300 ms (FindLiveObjects: 0.082600 ms CreateObjectMapping: 0.031700 ms MarkObjects: 0.710300 ms  DeleteObjects: 0.017300 ms)
+
+2+2=4 is True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CORRECT!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.629500 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 504.
+Total: 0.790600 ms (FindLiveObjects: 0.074200 ms CreateObjectMapping: 0.023500 ms MarkObjects: 0.664000 ms  DeleteObjects: 0.025100 ms)
+
+I am super cool is True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CORRECT!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.584600 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 504.
+Total: 0.852100 ms (FindLiveObjects: 0.084000 ms CreateObjectMapping: 0.030600 ms MarkObjects: 0.711700 ms  DeleteObjects: 0.022400 ms)
+
+Violets are red is False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CORRECT!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.668600 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 504.
+Total: 0.674700 ms (FindLiveObjects: 0.077100 ms CreateObjectMapping: 0.023900 ms MarkObjects: 0.564200 ms  DeleteObjects: 0.007200 ms)
+
+I am super cool is True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CORRECT!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.436400 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 504.
+Total: 0.329100 ms (FindLiveObjects: 0.036400 ms CreateObjectMapping: 0.023200 ms MarkObjects: 0.262400 ms  DeleteObjects: 0.006000 ms)
+
+Violets are red is False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+WRONG!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.734200 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 504.
+Total: 0.679600 ms (FindLiveObjects: 0.102200 ms CreateObjectMapping: 0.045200 ms MarkObjects: 0.514200 ms  DeleteObjects: 0.013900 ms)
+
+2+2=4 is True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+WRONG!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.119000 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 504.
+Total: 0.818900 ms (FindLiveObjects: 0.063600 ms CreateObjectMapping: 0.051000 ms MarkObjects: 0.685100 ms  DeleteObjects: 0.017500 ms)
+
+Violets are red is False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: a80 -> priority: 1 

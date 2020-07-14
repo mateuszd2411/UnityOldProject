@@ -1,0 +1,34 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 510 (ID=0x1902)
+    Vendor:   Intel
+    VRAM:     2144 MB
+    Driver:   26.20.100.7263
+Begin MonoManager ReloadAssembly
+Platform assembly: H:\git do wyslania\unity1\2d pliki z br i rozne\game\Game2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading H:\git do wyslania\unity1\2d pliki z br i rozne\game\Game2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: H:\git do wyslania\unity1\2d pliki z br i rozne\game\Game2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading H:\git do wyslania\unity1\2d pliki z br i rozne\game\Game2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: H:\git do wyslania\unity1\2d pliki z br i rozne\game\Game2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading H:\git do wyslania\unity1\2d pliki z br i rozne\game\Game2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: H:\git do wyslania\unity1\2d pliki z br i rozne\game\Game2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading H:\git do wyslania\unity1\2d pliki z br i rozne\game\Game2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: H:\git do wyslania\unity1\2d pliki z br i rozne\game\Game2_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading H:\git do wyslania\unity1\2d pliki z br i rozne\game\Game2_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: H:\git do wyslania\unity1\2d pliki z br i rozne\game\Game2_Data\Managed\System.dll (this message is harmless)
+Platform assembly: H:\git do wyslania\unity1\2d pliki z br i rozne\game\Game2_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.087 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.529200 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 938 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.906000 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 383.
+Total: 0.260000 ms (FindLiveObjects: 0.024500 ms CreateObjectMapping: 0.019400 ms MarkObjects: 0.206900 ms  DeleteObjects: 0.008300 ms)
+

@@ -1,0 +1,116 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 510 (ID=0x1902)
+    Vendor:   Intel
+    VRAM:     2144 MB
+    Driver:   26.20.100.7263
+Begin MonoManager ReloadAssembly
+Platform assembly: H:\git do wyslania\unity1\2d pliki z br i rozne\game\Game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading H:\git do wyslania\unity1\2d pliki z br i rozne\game\Game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: H:\git do wyslania\unity1\2d pliki z br i rozne\game\Game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading H:\git do wyslania\unity1\2d pliki z br i rozne\game\Game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: H:\git do wyslania\unity1\2d pliki z br i rozne\game\Game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading H:\git do wyslania\unity1\2d pliki z br i rozne\game\Game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: H:\git do wyslania\unity1\2d pliki z br i rozne\game\Game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading H:\git do wyslania\unity1\2d pliki z br i rozne\game\Game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: H:\git do wyslania\unity1\2d pliki z br i rozne\game\Game_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading H:\git do wyslania\unity1\2d pliki z br i rozne\game\Game_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: H:\git do wyslania\unity1\2d pliki z br i rozne\game\Game_Data\Managed\System.dll (this message is harmless)
+Platform assembly: H:\git do wyslania\unity1\2d pliki z br i rozne\game\Game_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.090 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.085000 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 44 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.045200 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 383.
+Total: 0.288100 ms (FindLiveObjects: 0.029100 ms CreateObjectMapping: 0.011900 ms MarkObjects: 0.232300 ms  DeleteObjects: 0.009100 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.966800 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 432.
+Total: 0.629000 ms (FindLiveObjects: 0.067300 ms CreateObjectMapping: 0.043300 ms MarkObjects: 0.500500 ms  DeleteObjects: 0.016300 ms)
+
+GAME OVER
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.542800 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 432.
+Total: 0.616300 ms (FindLiveObjects: 0.057500 ms CreateObjectMapping: 0.042700 ms MarkObjects: 0.498400 ms  DeleteObjects: 0.015900 ms)
+
+GAME OVER
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.415300 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 432.
+Total: 0.612300 ms (FindLiveObjects: 0.057000 ms CreateObjectMapping: 0.041900 ms MarkObjects: 0.496600 ms  DeleteObjects: 0.015200 ms)
+
+GAME OVER
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.696400 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 432.
+Total: 0.450600 ms (FindLiveObjects: 0.047000 ms CreateObjectMapping: 0.030000 ms MarkObjects: 0.361200 ms  DeleteObjects: 0.011200 ms)
+
+GAME OVER
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.007600 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 432.
+Total: 0.566400 ms (FindLiveObjects: 0.063300 ms CreateObjectMapping: 0.042600 ms MarkObjects: 0.443600 ms  DeleteObjects: 0.015300 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.176400 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 474.
+Total: 1.164500 ms (FindLiveObjects: 0.070600 ms CreateObjectMapping: 0.039500 ms MarkObjects: 1.020800 ms  DeleteObjects: 0.029700 ms)
+
+GAME OVER
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.397800 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 474.
+Total: 0.642500 ms (FindLiveObjects: 0.083400 ms CreateObjectMapping: 0.043900 ms MarkObjects: 0.497200 ms  DeleteObjects: 0.016300 ms)
+
+GAME OVER
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.898900 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 474.
+Total: 0.654800 ms (FindLiveObjects: 0.106000 ms CreateObjectMapping: 0.048100 ms MarkObjects: 0.479400 ms  DeleteObjects: 0.016800 ms)
+
+GAME OVER
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.559800 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 474.
+Total: 0.461900 ms (FindLiveObjects: 0.048800 ms CreateObjectMapping: 0.034500 ms MarkObjects: 0.365000 ms  DeleteObjects: 0.012300 ms)
+
